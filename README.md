@@ -1,1 +1,3 @@
 # kmer-freq
+
+## Usage
